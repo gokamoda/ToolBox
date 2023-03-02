@@ -1,0 +1,7 @@
+dataset:
+  name: train
+  len: 12000
+model:
+  name: bert
+  params:
+    return_dict: true
